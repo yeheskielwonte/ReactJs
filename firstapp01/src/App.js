@@ -1,10 +1,6 @@
 import './App.css';
 import Card from './Components/Card';
-
-const person=[
-  {name:"Owen",fam:"Geraldy"},
-  {name:"Dan",fam:"me"},
-]
+import {person} from './Components/person'
 
 function App() {
   return (
